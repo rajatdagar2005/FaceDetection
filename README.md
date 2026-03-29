@@ -1,6 +1,11 @@
 
 # 📸 Face Detection App using ML Kit  
 
+<img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/40609c5c-20c1-4537-ba67-c2ade0c40ae6" />
+<img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/8112ea75-e3dc-4ac4-af58-68ab30e0895d" />
+<img width="360" height="800" alt="image" src="https://github.com/user-attachments/assets/821ca9b5-09e0-42d1-875c-479cb8f97194" />
+
+
 ## 🚀 Introduction  
 This is an **Android Face Detection App** built using **ML Kit (Google’s Machine Learning API)** and **Kotlin**. The app captures an image using the camera, detects faces, and provides details like **smile probability, eye openness, and face count**.
 
